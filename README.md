@@ -81,33 +81,7 @@ mall-customer-segmentation/
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Open the notebook**
-
-   ```bash
-   jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"
-   ```
-
 ---
-
-## 🛠️ Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
-
-## 📊 Output Example
-
-![Customer Segmentation](images/clustering_bivariate.png)
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.

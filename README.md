@@ -60,19 +60,19 @@ mall-customer-segmentation/
    git clone https://github.com/your-username/mall-customer-segmentation.git
 ````
 
-2. **Navigate into the project folder**
+ **Navigate into the project folder**
 
    ```bash
    cd mall-customer-segmentation
    ```
 
-3. **Install dependencies**
+**Install dependencies**
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Open the notebook**
+**Open the notebook**
 
    ```bash
    jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"

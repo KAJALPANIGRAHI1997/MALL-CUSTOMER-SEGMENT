@@ -50,10 +50,9 @@ mall-customer-segmentation/
 ├── requirements.txt          # Dependencies
 └── README.md                 # Project documentation
 
+
+
 ````
-
----
-
 ## 🚀 How to Run
 
 1. **Clone this repository**
@@ -71,12 +70,22 @@ mall-customer-segmentation/
 
    ```bash
    pip install -r requirements.txt
- Open the notebook
-jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"  ```
+   ```
+
+4. **Open the notebook**
+
+   ```bash
+   jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"
+   ```
+
 ---
+## 📊 Output Example
+
+![Customer Segmentation](images/clustering_bivariate.png)
+
+---
+
 ## 📜 License
 
 This project is licensed under the MIT License.
-
-
 

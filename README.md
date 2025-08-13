@@ -30,3 +30,87 @@ We apply **K-Means Clustering** to group customers based on their **Annual Incom
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/mall-customer-segmentation.git
+
+Here’s your README in proper Markdown format, matching the screenshot style and GitHub-friendly formatting:
+
+```markdown
+# Mall Customer Segmentation
+
+This project performs **customer segmentation** using the Mall Customers dataset.  
+We apply **K-Means Clustering** to group customers based on their **Annual Income** and **Spending Score**, and visualize the results.
+
+---
+
+## 📂 Project Structure
+```
+
+mall-customer-segmentation/
+│
+├── data/                     # Raw and processed data
+│   ├── Mall\_Customers.csv
+│   └── Clustering.csv
+│
+├── notebooks/                # Jupyter notebooks
+│   └── MALL CUSTOMER SEGMENT.ipynb
+│
+├── images/                   # Visualizations
+│   └── clustering\_bivariate.png
+│
+├── requirements.txt          # Dependencies
+└── README.md                 # Project documentation
+
+````
+
+---
+
+## 🚀 How to Run
+
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/your-username/mall-customer-segmentation.git
+````
+
+2. **Navigate into the project folder**
+
+   ```bash
+   cd mall-customer-segmentation
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Open the notebook**
+
+   ```bash
+   jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"
+   ```
+
+---
+
+## 🛠️ Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* Jupyter Notebook
+
+---
+
+## 📊 Output Example
+
+![Customer Segmentation](images/clustering_bivariate.png)
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+
+

@@ -1,3 +1,4 @@
+
 # Mall Customer Segmentation
 
 This project performs **customer segmentation** using the Mall Customers dataset.  
@@ -25,65 +26,44 @@ We apply **K-Means Clustering** to group customers based on their **Annual Incom
 
 ## 📷 Output Example
 ![Customer Segmentation](clustering_bivariate.png)
-
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/mall-customer-segmentation.git
-
-
 ## 📂 Project Structure
-```
-
 mall-customer-segmentation/
 │
 ├── data/                     # Raw and processed data
-│   ├── Mall\_Customers.csv
+│   ├── Mall_Customers.csv
 │   └── Clustering.csv
 │
 ├── notebooks/                # Jupyter notebooks
 │   └── MALL CUSTOMER SEGMENT.ipynb
 │
-├── images/                   # Visualizations
-│   └── clustering\_bivariate.png
+├── images/                   # Visualizations and plots
+│   └── clustering_bivariate.png
 │
 ├── requirements.txt          # Dependencies
-└── README.md                 # Project documentation
+├── README.md                 # Project documentation
+└── LICENSE                   # Optional - license info
 
-
-
-````
 ## 🚀 How to Run
-
-1. **Clone this repository**
+1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/mall-customer-segmentation.git
 ````
 
- **Navigate into the project folder**
+2. Navigate into the project folder:
 
    ```bash
    cd mall-customer-segmentation
    ```
-
-**Install dependencies**
+3. Install dependencies:
 
    ```bash
    pip install -r requirements.txt
    ```
-
-**Open the notebook**
+4. Open the notebook:
 
    ```bash
    jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"
    ```
-
----
-## 📊 Output Example
-
-![Customer Segmentation](images/clustering_bivariate.png)
-
----
 
 ## 📜 License
 

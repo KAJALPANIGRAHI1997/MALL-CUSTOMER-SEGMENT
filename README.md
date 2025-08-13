@@ -31,15 +31,6 @@ We apply **K-Means Clustering** to group customers based on their **Annual Incom
    ```bash
    git clone https://github.com/your-username/mall-customer-segmentation.git
 
-Here’s your README in proper Markdown format, matching the screenshot style and GitHub-friendly formatting:
-
-```markdown
-# Mall Customer Segmentation
-
-This project performs **customer segmentation** using the Mall Customers dataset.  
-We apply **K-Means Clustering** to group customers based on their **Annual Income** and **Spending Score**, and visualize the results.
-
----
 
 ## 📂 Project Structure
 ```
@@ -80,7 +71,8 @@ mall-customer-segmentation/
 
    ```bash
    pip install -r requirements.txt
-   ```
+ Open the notebook
+jupyter notebook "MALL CUSTOMER SEGMENT.ipynb"  ```
 ---
 ## 📜 License
 
